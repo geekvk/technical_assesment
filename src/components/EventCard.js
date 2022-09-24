@@ -1,5 +1,4 @@
 import React from 'react'
-import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 
 function EventCard({ icon, title, sub_title }) {

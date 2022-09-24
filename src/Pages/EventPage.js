@@ -2,8 +2,8 @@ import React from 'react'
 import EventCard from '../components/EventCard';
 import eventImage from '../images/eventImage.png';
 import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
-import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
+
 function EventPage() {
   return (
     <div className='event_container'>
